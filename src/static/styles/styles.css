@@ -1,0 +1,15 @@
+:root {
+    box-sizing: border-box;
+}
+
+body {
+    border: 20px;
+    background-color: greenyellow;
+}
+
+.form-content {
+    height: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
